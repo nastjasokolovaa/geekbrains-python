@@ -1,1 +1,1 @@
-Задания для geekbrains
+Задачи для geekbrains
