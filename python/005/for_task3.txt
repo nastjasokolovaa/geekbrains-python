@@ -1,0 +1,6 @@
+Petrov,20500
+Ivanov,15000
+Zheleznyakova,15700
+Smirnov,35000
+Sovin,40000
+Vlazhin,13000
